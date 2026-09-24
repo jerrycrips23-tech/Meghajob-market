@@ -1,5 +1,3 @@
-Build a complete, production-ready web platform called:
-
 MEGHALAYA JOB CONNECT
 
 Tagline:
